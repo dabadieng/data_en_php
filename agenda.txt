@@ -1,0 +1,14 @@
+Agenda
+------
+
+1. Développer un calendrier tel que maquetté dans le fichier "agenda.xlsx".
+	le calendrier comprendra  : 
+	- un formulaire permettant de définir le mois et l'année : le mois est sélectionné dans une liste déroulante, l'année est une zone de saisie.
+	- des liens de navigation "mois précédent", "mois suivant".
+1bis. 
+	- Afficher les jours du week end dans un style avec un fond vert (cf. <col>, scope)
+	
+2. ... voir cookie
+
+3. prise de rendez-vous
+

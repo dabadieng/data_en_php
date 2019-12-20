@@ -1,0 +1,40 @@
+table {
+    width:600px;
+}
+
+table, td, th {
+    border: 1px solid #FFAAFF;
+    padding: 10px;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    font-style: oblique;
+}
+
+caption {
+    border: 1px solid #0867A4;
+    font-variant: small-caps;
+}
+
+.moyenne {
+    font-weight: bold;
+    background-color: #FFAAFF;
+    color:indigo;
+}
+
+.superieur {
+    font-weight: bold;
+    background-color:maroon;
+    color:white;
+}
+
+table.calendrier td {
+    text-align: center;
+    width:50px;
+}
+
+.weekend {
+    background-color:chartreuse;
+}
